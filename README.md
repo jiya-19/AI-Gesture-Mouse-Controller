@@ -1,23 +1,44 @@
-# AI Desktop Controller
+# 🖐️ AI Gesture & Voice Desktop Controller
 
-AI-Based Gesture and Voice Controlled Desktop Automation System.
+An AI-powered desktop automation system that allows users to control their computer using **hand gestures** and **voice commands**.
 
-## Features
-- Gesture-based mouse control
-- Voice-controlled commands
-- Multithreaded architecture
+Built using **OpenCV**, **MediaPipe**, and **SpeechRecognition**, this project demonstrates real-time computer vision, voice processing, and human-computer interaction.
+
+---
+
+## 🚀 Features
+
+### 🎮 Gesture Control
+- Move mouse using index finger
+- Left-click using thumb + index pinch
+- Smooth cursor tracking
+- Real-time webcam processing
+
+### 🎤 Voice Control
+- Open browser using voice
+- Launch calculator
+- Stop voice control via command
+- Hands-free desktop interaction
+
+### 🧠 Architecture Highlights
 - Modular project structure
+- Multithreaded execution
+- Clean separation of gesture and voice controllers
+- Logging support
+- Scalable configuration design
 
-## Installation
+---
 
-```bash
-pip install -r requirements.txt
-python main.py
-```
+## 🛠️ Tech Stack
 
-## Requirements
-- Windows OS
-- Camera & Microphone
+- **Python**
+- **OpenCV**
+- **MediaPipe**
+- **SpeechRecognition**
+- **PyAutoGUI**
+- **Tkinter**
+- **Multithreading**
 
-## Future Improvements
-- Cross-platform support
+---
+
+## 📂 Project Structure
