@@ -1,2 +1,0 @@
-
-# Future: Common helper functions
