@@ -2,8 +2,8 @@
 import tkinter as tk
 from tkinter import ttk
 import logging
-from controllers.gesture_controller import GestureController
-from controllers.voice_controller import VoiceController
+from gesture_controller import GestureController
+from voice_controller import VoiceController
 
 settings = {
     "gesture_sensitivity": 40,
