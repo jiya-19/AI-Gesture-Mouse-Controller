@@ -1,8 +1,6 @@
-opencv-python
-mediapipe
-pyautogui
-SpeechRecognition
-pyttsx3
-psutil
-pywin32
-pyaudio
+opencv-python>=4.9.0
+mediapipe>=0.10.14
+pyautogui>=0.9.54
+numpy>=1.26.0
+SpeechRecognition>=3.10.4
+pyaudio>=0.2.14
